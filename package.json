@@ -1,0 +1,1 @@
+{"description":"One-line office joke for make.fun — writes a single joke to /output/entry.txt","engines":{"node":">=22.18.0"},"license":"MIT","name":"u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
